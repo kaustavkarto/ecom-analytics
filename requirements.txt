@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+mysql-connector-python
+pymongo
+snowflake-connector-python
+redis
+apscheduler
+faker
+pytest
+httpx
